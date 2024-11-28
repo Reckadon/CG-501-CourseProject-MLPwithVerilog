@@ -1,4 +1,5 @@
 # CG-501-CourseProject
+## Implementing and Simualting a MLP using Verilog
 
 ## References
 
